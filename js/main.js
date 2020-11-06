@@ -1,4 +1,4 @@
 
-console.log("pito")
+console.log("Hola Mundo")
 
-document.addEventListener("DOMContentLoaded",()=> alert("pito"))
+document.addEventListener("DOMContentLoaded",()=> alert("hello mi dear friend"))
