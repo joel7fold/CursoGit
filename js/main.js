@@ -1,7 +1,7 @@
 console.log("esta modificacion la meti en Javascript branch");
 
 let saludo =function(){
-	alert("Saludos my friend!")
+	alert("Saludos desde: " + empleado.city)
 }
 
 let empleado = {
